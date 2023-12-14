@@ -8,6 +8,8 @@ DESCRIPTION
 - Given a Playbook ID, this script downloads the latest Bolster playbook, extracts the domains and blocks them in Microsoft Exchange.
 - Once blocked, any incoming email with the blocked domain will get quarantined.
 
+
+
 USAGE
 
 PS > BlockPlaybookUrls.ps1 <API_KEY> <PLAYBOOK_ID>
