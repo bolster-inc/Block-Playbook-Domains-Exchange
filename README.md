@@ -9,4 +9,5 @@ DESCRIPTION
 - Once blocked, any incoming email with the blocked domain will get quarantined.
 
 USAGE
+
 PS > BlockPlaybookUrls.ps1 <API_KEY> <PLAYBOOK_ID>
