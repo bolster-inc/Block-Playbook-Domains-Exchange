@@ -1,7 +1,9 @@
 # Block-Playbook-Domains-Exchange
 Powershell script to block domains returned by Bolster Playbook in Microsoft Exchange
 
+
 PREREQUISITE
+
 Connect to Exchange Online in Powershell: https://learn.microsoft.com/en-us/powershell/exchange/connect-to-exchange-online-powershell?view=exchange-ps
 
 DESCRIPTION
